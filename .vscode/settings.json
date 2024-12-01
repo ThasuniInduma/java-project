@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\ASUS\\Desktop\\java\\Grain_Store_Management_System\\src\\grain_store_management_system\\lib\\mysql-connector-j-8.0.32.jar"
+    ]
+}
